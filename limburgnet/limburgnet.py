@@ -139,4 +139,3 @@ class APIParser:
 
         # Return the dictionary
         return calendar
-
